@@ -11,6 +11,10 @@ A lightweight, browser-based keyboard tester that lets you verify every key on y
 - **Responsive scaling** — the keyboard scales automatically to fit any screen size
 - **Reset button** — clears all tested keys and resets the counter
 
+## Live Demo
+
+🔗 [keyboard-tester-lyart.vercel.app](https://keyboard-tester-lyart.vercel.app/)
+
 ## Preview
 
 ![Keyboard Tester Preview](screenshot.png)
